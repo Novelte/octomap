@@ -1,4 +1,4 @@
-OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
+Novelte/OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
 ===========================================================================
 
 http://octomap.github.io
